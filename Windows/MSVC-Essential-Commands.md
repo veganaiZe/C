@@ -10,6 +10,7 @@ _Warnings:_
 `/W4`    - informational warning level (lint-like)  
 `/Wall`  - all warnings (/W4, including warnings that are off by default)  
 `/WX`    - warnings as errors  
+`/sdl`   - additional security warnings  
 `/analyze:plugin EspXEngine.dll` - enable c++ core guidelines checker  
 
 _Optimizations:_  
