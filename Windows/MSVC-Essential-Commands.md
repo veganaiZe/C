@@ -13,6 +13,7 @@ _Warnings:_
 -----------
 
 [`/experimental:external /external:anglebrackets /external:W0 /external:templates-`][external diagnostics] - disable warnings on system headers  
+[`/experimental:external /analyze:external-`][external analysis] - shorter (and ~30% quicker?) version of above?  
 [`/W3`][warning level]    - production quality warnings (use at least this)  
 [`/W4`][warning level]    - informational warning level (lint-like)  
 [`/Wall`][warning level]  - all warnings (/W4, including warnings that are off by default)  
@@ -21,6 +22,7 @@ _Warnings:_
 [`/analyze:plugin EspXEngine.dll`][guidelines checker] - enable c++ core guidelines checker  
 
 [external diagnostics]: https://learn.microsoft.com/en-us/cpp/build/reference/external-external-headers-diagnostics?view=msvc-160
+[external analysis]: https://learn.microsoft.com/en-us/cpp/build/reference/analyze-code-analysis?view=msvc-160#external-file-analysis-options
 [warning level]: https://learn.microsoft.com/en-us/cpp/build/reference/compiler-option-warning-level?view=msvc-160
 [additional security]: https://learn.microsoft.com/en-us/cpp/build/reference/sdl-enable-additional-security-checks?view=msvc-160
 [guidelines checker]: https://learn.microsoft.com/en-us/cpp/code-quality/code-analysis-for-cpp-corecheck?view=msvc-160
