@@ -6,6 +6,7 @@ _Includes:_
 `/X`         - ignore standard include places  
   
 _Warnings:_  
+`/experimental:external /external:anglebrackets /external:W0 /external:templates-` - disable warnings on system headers  
 `/W3`    - production quality warnings (use at least this)  
 `/W4`    - informational warning level (lint-like)  
 `/Wall`  - all warnings (/W4, including warnings that are off by default)  
