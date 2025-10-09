@@ -97,3 +97,13 @@ int compare_ints(const void * a, const void * b)
     return x < y ? -1 : x > y ? 1 : 0;
 }
 ```
+
+
+[Strings](https://en.cppreference.com/w/c/string.html)
+---------
+
+```C
+#include <string.h>
+
+size_t strlen(const char * string);  /* returns length; upto but not including null character '\0' */
+```
