@@ -102,6 +102,15 @@ _MSBuild_
 `msbuild /m[:n] /p:platform=win32 /p:configuration=release /p:platformtoolset=v142 /t:clean`
 
 
+_Create Import Library_
+-----------------------
+
+1. `dumpbin /exports filename.dll`
+2. Copy & paste names of needed functions into `filename.def`
+3. Add line with word `EXPORTS` at top of `.def` file
+4. `lib /def:filename.def /out:filename.lib [/machine:x64]`
+
+
 _SDL2 (x86)_
 ------------
 
