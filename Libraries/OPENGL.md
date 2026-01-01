@@ -1,13 +1,22 @@
 OpenGL
 ======
 
+  - _References_
+    | Version                                                                       | Format | Notes
+    |-------------------------------------------------------------------------------|--------|------
+    | [OpenGL 2.1 Reference](https://registry.khronos.org/OpenGL-Refpages/gl2.1/)   | HTML   | Includes GLX & GLU
+    | [OpenGL 3.2 Reference](https://registry.khronos.org/OpenGL-Refpages/es3/)     | HTML   | Last Apple (stock)
+    | [OpenGL 3.2 QuickRef](https://www.khronos.org/files/opengl-quick-reference-card.pdf)   | PDF | Last Apple (stock)
+    | [OpenGL 4.1 QuickRef](https://www.khronos.org/files/opengl41-quick-reference-card.pdf) | PDF | Last Apple (upgrade)
+    | [OpenGL 4.5 Reference](https://registry.khronos.org/OpenGL-Refpages/gl4/)     | HTML   |
+    | [glTF 2.0 QuickRef](https://www.khronos.org/files/gltf20-reference-guide.pdf) | PDF    |
   - [_Specifications_](https://registry.khronos.org/OpenGL/specs/gl/)
-    - [OpenGL 2.1 Reference](https://registry.khronos.org/OpenGL-Refpages/gl2.1/) - (HTML) includes glx & glu
-    - [OpenGL 3.2 API QuickRef](https://www.khronos.org/files/opengl-quick-reference-card.pdf) - (PDF) last apple stock
-    - [OpenGL 3.3 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec33.core.pdf) - (PDF)
-    - [OpenGL 4.1 API QuickRef](https://www.khronos.org/files/opengl41-quick-reference-card.pdf) - (PDF)
-    - [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) - (PDF) full es 2.0 compatible, last apple upgrade
-    - [OpenGL 4.5 Reference](https://registry.khronos.org/OpenGL-Refpages/gl4/) - (HTML)
+    | Version                                                                             | Format | Notes
+    |-------------------------------------------------------------------------------------|--------|------
+    | [OpenGL 2.1](https://registry.khronos.org/OpenGL/specs/gl/glspec21.pdf)             | PDF    |
+    | [OpenGL 3.3 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec33.core.pdf) | PDF    |
+    | [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) | PDF    | ES 2.0 Compatible, Last Apple Version
+    | [OpenGL 4.6 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec46.core.pdf) | PDF    |
   - _Extension Libraries_
     - [EGL](https://registry.khronos.org/EGL/sdk/docs/man/) - reference pages
     - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf)
