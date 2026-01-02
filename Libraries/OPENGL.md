@@ -55,6 +55,7 @@ OpenGL
         - Code Samples - 5th ed ( [opengl 1.0](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.0.zip) ) ( [opengl 1.1](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.1.zip) ) ( [opengl 1.2](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.2.zip) ) ( [opengl 1.4](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.4.zip) )
         - [Code Samples](http://web.archive.org/web/20160316053103id_/http://www.opengl-redbook.com/Code/oglpg-8th-edition.zip) - 8th ed, opengl 4.3
         - [Code Samples](http://opengl-redbook.com/OGLPG-9th-Edition.zip) ( [_github_](https://github.com/openglredbook/examples) ) - 9th ed, opengl 4.5
+        - [`gl3.h`](https://raw.githubusercontent.com/openglredbook/examples/refs/heads/master/include/GL3/gl3.h)
     - Wikis
       - [OpenGL wiki](https://www.khronos.org/opengl/wiki/Main_Page) - khronos
         - [History of OpenGL](https://wikis.khronos.org/opengl/History_of_OpenGL)
