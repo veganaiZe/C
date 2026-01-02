@@ -21,20 +21,21 @@ OpenGL
     | [Extensions](https://registry.khronos.org/OpenGL/extensions/)                       | TXT    |
   - _Libraries_
     - [GLEW](https://github.com/nigels-com/glew) - extension wrangler
+      - [usage](https://glew.sourceforge.net/basic.html) - initializing & checking for extensions
     - [GLM](https://github.com/g-truc/glm) - mathematics
-    - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf) - utility
+    - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf) - utility (pdf)
     - [GLUS](https://github.com/McNopper/GLUS) - cross graphic library utilities
     - [GLUT](https://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit) - utility toolkit (gui)
-      - [GLUT API](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf) ( [_online html_](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) )
+      - [GLUT API](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) ( [pdf](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf) )
       - [freeglut API](https://freeglut.sourceforge.net/docs/api.php)
         - [glut-compatible api](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_std.h)
         - [non-glut-compatible extensions api](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_ext.h)
         - [callbacks with user data arguments](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_ucall.h)
-    - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf) - x11 interface to opengl
+    - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf) - x11 interface to opengl (pdf)
     - [Mesa 3D](https://mesa3d.org/) - open source implementation w/ software fallback
       - [EGL](https://registry.khronos.org/EGL/) - interface window system to rendering api
-        - [Reference](https://registry.khronos.org/EGL/sdk/docs/man/) - 1.5 html
-        - [Quick Ref](https://www.khronos.org/files/egl-1-4-quick-reference-card.pdf) 1.4 pdf
+        - [Reference](https://registry.khronos.org/EGL/sdk/docs/man/) - 1.5 (html)
+        - [Quick Ref](https://www.khronos.org/files/egl-1-4-quick-reference-card.pdf) - 1.4 (pdf)
   - _Knowledge_
     - Mathematics
       - [Math2.org](http://math2.org/)
