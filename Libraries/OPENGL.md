@@ -43,7 +43,7 @@ OpenGL
     - Tutorials
       - [anton's opengl 4 tutorials](https://antongerdelan.net/opengl/)
       - [learnopengl.com](https://learnopengl.com/)
-      - [modern opengl guide](https://open.gl/) - open.gl ([PDF (2017)](http://www.openvisionnetworks.com/dist/Modern%20OpenGL%20Guide.pdf))
+      - [modern opengl guide](https://open.gl/) - open.gl ( [PDF (2017)](http://www.openvisionnetworks.com/dist/Modern%20OpenGL%20Guide.pdf) )
       - [openglbook.com](https://openglbook.com/the-book.html)
       - [opengl step by step](https://ogldev.org/) - ogldev.org
       - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/graphicsbook-1.3/index.html) - eck
@@ -61,4 +61,12 @@ OpenGL
     - [GLSL 4.10](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf) - PDF, last apple version
     - [GLSL 4.60](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html) - HTML
     - [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming) - wikibooks
+    - [Graphics Shaders](https://www.cs.vu.nl/~eliens/download/literatuur-shaders.pdf) - PDF, vrije universiteit amsterdam
+    <!-- [GPUOpen Archive](https://gpuopen.com/archive/) -->
+    - [RenderMonkey](http://web.archive.org/web/20110707130949id_/http://download2-developer.amd.com/amd/GPU/executables/RenderMonkey.2008-12-17-v1.82.322.msi) - shader development environment (opengl 2.0, windows)
+      - [Release Notes](http://web.archive.org/web/20120526081437id_/http://developer.amd.com/gpu_assets/rendermonkey-releasenotes-v.1.82.320.txt)
+      - [Documentation](http://web.archive.org/web/20120526081125id_/http://developer.amd.com/gpu_assets/RenderMonkey%20Documentation.pdf)
+      - [SDK Documentation](http://web.archive.org/web/20120526081345id_/http://developer.amd.com/gpu_assets/SDK%20Documentation.pdf)
+      - [RenderMonkey COLLADA Documentation](http://web.archive.org/web/20120526081145/http://developer.amd.com/media/gpu_assets/RenderMonkey%20COLLADA%20Documentation.pdf)
+      - [COLLADA OpenGL Effects Viewer](http://web.archive.org/web/20110911082316id_/http://download2-developer.amd.com/amd/GPU/zip/osg2.2_collada_gl_fx_viewer_031108.zip)
     - [Shader Editor](https://f-droid.org/packages/de.markusfisch.android.shadereditor/) - create and edit GLSL shaders (android 4.0+)
