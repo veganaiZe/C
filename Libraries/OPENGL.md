@@ -27,6 +27,9 @@ OpenGL
     - [GLUT](https://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit) - utility toolkit (gui)
       - [GLUT API](https://www.opengl.org/resources/libraries/glut/glut-3.spec.pdf) ( [_online html_](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html) )
       - [freeglut API](https://freeglut.sourceforge.net/docs/api.php)
+        - [glut-compatible api](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_std.h)
+        - [non-glut-compatible extensions api](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_ext.h)
+        - [callbacks with user data arguments](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_ucall.h)
     - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf) - x11 interface to opengl
     - [Mesa 3D](https://mesa3d.org/) - open source implementation w/ software fallback
       - [EGL](https://registry.khronos.org/EGL/) - interface window system to rendering api
