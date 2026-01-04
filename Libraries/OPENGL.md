@@ -70,7 +70,7 @@ OpenGL
       - [anton's opengl 4 tutorials](https://antongerdelan.net/opengl/)
       - [learnopengl.com](https://learnopengl.com/)
       - [modern opengl guide](https://open.gl/) - open.gl ( [pdf 2017](http://www.openvisionnetworks.com/dist/Modern%20OpenGL%20Guide.pdf) )
-      - [opengl4 tutorials](https://sibras.github.io/OpenGL4-Tutorials/docs/Tutorials/01-Tutorial1/) - opengl 3.x - 4.4 ( [github](https://github.com/sibras/OpenGL4-Tutorials) )
+      - [opengl4 tutorials](https://sibras.github.io/OpenGL4-Tutorials/docs/Tutorials/01-Tutorial1/) - opengl 3.x - 4.4 ( [github](https://github.com/sibras/OpenGL4-Tutorials) ) ( [pdf](https://riptutorial.com/Download/opengl.pdf) )
       - [openglbook.com](https://openglbook.com/the-book.html)
       - [opengl step by step](https://ogldev.org/) - ogldev.org
       - [opengl tutorial](https://riptutorial.com/opengl) - riptutorial.com
