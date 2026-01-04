@@ -69,9 +69,12 @@ OpenGL
     - Tutorials
       - [anton's opengl 4 tutorials](https://antongerdelan.net/opengl/)
       - [learnopengl.com](https://learnopengl.com/)
-      - [modern opengl guide](https://open.gl/) - open.gl ( [PDF (2017)](http://www.openvisionnetworks.com/dist/Modern%20OpenGL%20Guide.pdf) )
+      - [modern opengl guide](https://open.gl/) - open.gl ( [pdf 2017](http://www.openvisionnetworks.com/dist/Modern%20OpenGL%20Guide.pdf) )
+      - [opengl4 tutorials](https://sibras.github.io/OpenGL4-Tutorials/docs/Tutorials/01-Tutorial1/) - opengl 3.x - 4.4 ( [github](https://github.com/sibras/OpenGL4-Tutorials) )
       - [openglbook.com](https://openglbook.com/the-book.html)
       - [opengl step by step](https://ogldev.org/) - ogldev.org
+      - [opengl tutorial](https://riptutorial.com/opengl) - riptutorial.com
+        - [cross platform opengl context creation using sdl2](https://riptutorial.com/opengl/example/15725/cross-platform-opengl-context-creation--using-sdl2-)
       - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/graphicsbook-1.3/index.html) - eck
       - [Fundamental OpenGL Tutorials and Notes](http://www.songho.ca/opengl/index.html) - songho
       - [Graphics Programming](https://www.cprogramming.com/graphics-programming.html) - cprogramming.com
