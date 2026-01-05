@@ -49,8 +49,11 @@ OpenGL
           - [source archive](https://web.archive.org/web/20170102030551id_/https://storage.googleapis.com/google-code-archive-source/v2/code.google.com/oglsuperbible5/source-archive.zip) - google code
           - [mac xcode](https://web.archive.org/web/20130417020646id_/http://www.starstonesoftware.com/files/XCode.zip) - back ported to opengl 2.1 for [old macs](http://web.archive.org/web/20110110182311id_/http://www.starstonesoftware.com/OpenGL/mac.htm)
         - 6th edition
-          - [source code](https://web.archive.org/web/20140209130615id_/http://openglsuperbible.com/files/sb6code_2013_11_10.zip)
+          - [source code](https://web.archive.org/web/20140209130615id_/http://openglsuperbible.com/files/sb6code_2013_11_10.zip) ( [github](https://github.com/openglsuperbible/sb6code) )
           - [media archive](https://web.archive.org/web/20140209130615id_/http://openglsuperbible.com/files/sb6media_2013_11_10.zip)
+        - 7th edition
+          - [source code](https://github.com/openglsuperbible/sb7code/archive/master.zip) ( [github](https://github.com/openglsuperbible/sb7code) )
+          - [media archive](https://web.archive.org/web/20170929211831id_/http://openglsuperbible.com/files/superbible7-media.zip)
       - Realtime Rendering
         - [Collision Detection](http://web.archive.org/web/20241212124841id_/https://www.realtimerendering.com/Real-Time_Rendering_4th-Collision_Detection.pdf) - pdf
         - [Real-Time Ray Tracing](http://web.archive.org/web/20241212124841id_/https://www.realtimerendering.com/Real-Time_Rendering_4th-Real-Time_Ray_Tracing.pdf) - pdf
