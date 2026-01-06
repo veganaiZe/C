@@ -32,6 +32,7 @@ OpenGL
         - [non-glut-compatible extensions api](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_ext.h)
         - [callbacks with user data arguments](https://raw.githubusercontent.com/freeglut/freeglut/refs/heads/master/include/GL/freeglut_ucall.h)
     - [GLX 1.4](https://registry.khronos.org/OpenGL/specs/gl/glx1.4.pdf) - x11 interface to opengl (pdf)
+    - [WGL](https://learn.microsoft.com/en-us/windows/win32/api/_opengl/) - win32 interface to opengl
     - [Mesa 3D](https://mesa3d.org/) - open source implementation w/ software fallback
       - [EGL](https://registry.khronos.org/EGL/) - interface window system to rendering api
         - [Reference](https://registry.khronos.org/EGL/sdk/docs/man/) - 1.5 (html)
