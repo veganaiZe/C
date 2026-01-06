@@ -8,7 +8,7 @@ OpenGL
     | [OpenGL 3.2 Reference](https://registry.khronos.org/OpenGL-Refpages/es3/)     | HTML   | Last Apple (stock)
     | [OpenGL 3.2 QuickRef](https://www.khronos.org/files/opengl-quick-reference-card.pdf)   | PDF | Last Apple (stock)
     | [OpenGL 4.1 QuickRef](https://www.khronos.org/files/opengl41-quick-reference-card.pdf) | PDF | Last Apple (upgrade)
-    | [OpenGL 4.5 Reference](https://registry.khronos.org/OpenGL-Refpages/gl4/)     | HTML   |
+    | [OpenGL 4.5 Reference](https://registry.khronos.org/OpenGL-Refpages/gl4/bottom.php) | HTML   |
     | [OpenGL 4.6 (core) QuickRef](https://www.khronos.org/files/opengl46-quick-reference-card.pdf) | PDF |
     | [glTF 2.0 QuickRef](https://www.khronos.org/files/gltf20-reference-guide.pdf) | PDF    |
   - [_Specifications_](https://registry.khronos.org/OpenGL/specs/gl/)
