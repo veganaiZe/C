@@ -37,6 +37,12 @@ _Optimizations:_
 `/F<bytes>`  - set stack size; nearest 4-byte multiple; default is 1 MB  
 
 
+_Preprocessor_
+--------------
+
+`/D"<NAME>[=VALUE]"` - define preprocessor macro
+
+
 _Linking:_
 ----------
 
