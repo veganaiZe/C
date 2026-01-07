@@ -107,6 +107,8 @@ OpenGL
   - _Demos / Samples_
     - [Leo - Sneeze the Day demo](http://web.archive.org/web/20151202141514if_/http://developer.amd.com/wordpress/media/2012/10/AMD-Demo-Leo-v1.1.msi) - amd ( [1080p mov](http://web.archive.org/web/20120514115232if_/http://media.amddevcentral.com/video/gpu_videos/Leo_1080p.mov) )
     - [OpenGL 3 & 4](https://github.com/McNopper/OpenGL) - GLUS / GLFW / GLEW
+    - [OpenGL 4 examples](https://github.com/markkilgard/opengl4_examples) 2012, Mark Kilgard
+    - [OpenGL for X](https://github.com/markkilgard/opengl_for_x) - 1996, Mark Kilgard
     - [OpenGL Samples Pack](https://github.com/g-truc/ogl-samples)
   - _Tools_
     - [CodeXL](https://github.com/GPUOpen-Archive/CodeXL) - debug / profile / analysis
