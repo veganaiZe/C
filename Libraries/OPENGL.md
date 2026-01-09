@@ -19,6 +19,7 @@ OpenGL
     | [OpenGL 4.1 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec41.core.pdf) | PDF    | ES 2.0 Compatible, Last Apple Version
     | [OpenGL 4.6 (core)](https://registry.khronos.org/OpenGL/specs/gl/glspec46.core.pdf) | PDF    |
     | [Extensions](https://registry.khronos.org/OpenGL/extensions/)                       | TXT    |
+    | [glTF 2.0](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)               | HTML   |
   - _Libraries_
     - [GLEW](https://github.com/nigels-com/glew) - extension wrangler
       - [usage](https://glew.sourceforge.net/basic.html) - initializing & checking for extensions
@@ -60,10 +61,11 @@ OpenGL
         - [Real-Time Ray Tracing](http://web.archive.org/web/20241212124841id_/https://www.realtimerendering.com/Real-Time_Rendering_4th-Real-Time_Ray_Tracing.pdf) - pdf
         - [Appendicies](http://web.archive.org/web/20241212124841id_/https://www.realtimerendering.com/Real-Time_Rendering_4th-Appendices.pdf) - pdf, linear algebra & trig
       - The Red Book
-        - [online html](https://web.archive.org/web/20131009113357id_/https://fly.cc.fer.hr/~unreal/theredbook/)
-        - [code samples](https://www.opengl.org/archives/resources/code/samples/redbook/)
-        - [pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf)
-        - [zipped html book](https://web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip)
+        - 1993 ( [online html](https://web.archive.org/web/20131009113357id_/https://fly.cc.fer.hr/~unreal/theredbook/) )
+               ( [zipped html](https://web.archive.org/web/20130430205318id_/http://fly.cc.fer.hr/~unreal/theredbook/theredbook.zip) )
+               ( [pdf](https://w2.mat.ucsb.edu/594cm/2009/docs/RedBook.pdf) )
+        - 1997 ( [online code](https://www.opengl.org/archives/resources/code/samples/redbook/) )
+               ( [zipped code](https://www.opengl.org/archives/resources/code/samples/redbook.zip) )
         - Code Samples - 5th ed ( [opengl 1.0](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.0.zip) ) ( [opengl 1.1](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.1.zip) ) ( [opengl 1.2](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.2.zip) ) ( [opengl 1.4](http://web.archive.org/web/20070216025655id_/http://www.opengl-redbook.com/source/OpenGL-1.4.zip) )
         - Code Samples - 8th ed ( [opengl 4.3](http://web.archive.org/web/20160316053103id_/http://www.opengl-redbook.com/Code/oglpg-8th-edition.zip) )
         - Code Samples - 9th ed ( [opengl 4.5](http://opengl-redbook.com/OGLPG-9th-Edition.zip) ) ( [_github_](https://github.com/openglredbook/examples) )
