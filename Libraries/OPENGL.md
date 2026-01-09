@@ -4,7 +4,7 @@ OpenGL
   - _References_
     | Version                                                                       | Format | Notes
     |-------------------------------------------------------------------------------|--------|------
-    | [OpenGL 2.1 Reference](https://registry.khronos.org/OpenGL-Refpages/gl2.1/)   | HTML   | Includes GLX & GLU
+    | [OpenGL 2.1 Reference](https://registry.khronos.org/OpenGL-Refpages/gl2.1/bottom.php) | HTML   | Includes GLX & GLU
     | [OpenGL 3.2 Reference](https://registry.khronos.org/OpenGL-Refpages/es3/)     | HTML   | Last Apple (stock)
     | [OpenGL 3.2 QuickRef](https://www.khronos.org/files/opengl-quick-reference-card.pdf)   | PDF | Last Apple (stock)
     | [OpenGL 4.1 QuickRef](https://www.khronos.org/files/opengl41-quick-reference-card.pdf) | PDF | Last Apple (upgrade)
