@@ -94,16 +94,17 @@ OpenGL
       - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/index.html) ( [_github_](https://github.com/paroj/gltut) )
       - [Lighthouse3d](http://www.lighthouse3d.com/tutorials/) - includes glut & glsl tutorials
       - [NeHe](http://nehe.gamedev.net/) ( [_zipped letter pdf_](https://web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) )
-      - [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming) - wikibooks
+      - [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming) - wikibook
       - [glTF Tutorials](https://github.khronos.org/glTF-Tutorials/)
   - _GLSL_
-    - [GLSL 1.05](http://web.archive.org/web/20040611122255id_/http://www.opengl.org/documentation/oglsl/ShaderSpecV1.051.pdf) - PDF, extension to opengl 1.4
-    - [GLSL 1.20](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.20.pdf) - PDF, coincides with opengl 2.1
-    - [GLSL 3.30](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.3.30.pdf) - PDF
-    - [GLSL 4.10](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf) - PDF, last apple version
-    - [GLSL 4.60](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html) - HTML
-    - [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming) - wikibooks
-    - [Graphics Shaders](https://www.cs.vu.nl/~eliens/download/literatuur-shaders.pdf) - PDF, vrije universiteit amsterdam
+    - [GLSL 1.05 spec](http://web.archive.org/web/20040611122255id_/http://www.opengl.org/documentation/oglsl/ShaderSpecV1.051.pdf) - (PDF) extension to opengl 1.4
+    - [GLSL 1.10 Quick Reference Guide](https://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - (PDF)
+    - [GLSL 1.20 spec](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.20.pdf) - (PDF) coincides with opengl 2.1
+    - [GLSL 3.30 spec](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.3.30.pdf) - (PDF)
+    - [GLSL 4.10 spec](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.10.pdf) - (PDF) last apple version
+    - [GLSL 4.60 spec](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.html) - (HTML) online
+    - [GLSL Programming](https://en.wikibooks.org/wiki/GLSL_Programming) - wikibook
+    - [Graphics Shaders](https://www.cs.vu.nl/~eliens/download/literatuur-shaders.pdf) - (PDF) vrije universiteit amsterdam
     <!-- [GPUOpen Archive](https://gpuopen.com/archive/) -->
   - _Demos / Samples_
     - [Leo - Sneeze the Day demo](http://web.archive.org/web/20151202141514if_/http://developer.amd.com/wordpress/media/2012/10/AMD-Demo-Leo-v1.1.msi) - amd ( [1080p mov](http://web.archive.org/web/20120514115232if_/http://media.amddevcentral.com/video/gpu_videos/Leo_1080p.mov) )
