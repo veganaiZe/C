@@ -95,6 +95,7 @@ OpenGL
       - [Lighthouse3d](http://www.lighthouse3d.com/tutorials/) - includes glut & glsl tutorials
       - [NeHe](http://nehe.gamedev.net/) ( [_zipped letter pdf_](https://web.archive.org/web/20100706105235id_/http://nehe.gamedev.net/files/resources/nehe_opengl_letter_book_pdf.zip) )
       - [OpenGL Programming](https://en.wikibooks.org/wiki/OpenGL_Programming) - wikibooks
+      - [glTF Tutorials](https://github.khronos.org/glTF-Tutorials/)
   - _GLSL_
     - [GLSL 1.05](http://web.archive.org/web/20040611122255id_/http://www.opengl.org/documentation/oglsl/ShaderSpecV1.051.pdf) - PDF, extension to opengl 1.4
     - [GLSL 1.20](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.20.pdf) - PDF, coincides with opengl 2.1
