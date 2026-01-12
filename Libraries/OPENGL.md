@@ -43,6 +43,8 @@ OpenGL
       - [Math2.org](http://math2.org/)
       - [3D Geometry Primer]() - flipcode
       - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
+      - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+      - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) - jorge rodriguez (playlist)
     - Books
       - [Learning Modern 3D Graphics Programming](https://www.cse.chalmers.se/edu/year/2018/course/TDA361/LearningModern3DGraphicsProgramming.pdf) - pdf
       - OpenGL SuperBible
