@@ -103,6 +103,17 @@ OpenGL
       - [glTF Tutorials](https://github.khronos.org/glTF-Tutorials/)
   - _GLSL_
     - [GLSL 1.05 spec](http://web.archive.org/web/20040611122255id_/http://www.opengl.org/documentation/oglsl/ShaderSpecV1.051.pdf) - (PDF) extension to opengl 1.4
+      - [Simple Shading Example](http://web.archive.org/web/20101226180625id_/http://www.aw-bc.com/samplechapter/0321197895.pdf) - 2004-02 (orange book sample)
+      - [GLSL Features](http://web.archive.org/web/20041013044022id_/http://developer.3dlabs.com/openGL2/whitepapers/GLSLfeatures.pdf) - 2004-04 (3dlabs white paper)
+      - [procedural brick shader](http://web.archive.org/web/20040620141110id_/http://developer.3dlabs.com/openGL2/downloads/ogl2brick.zip) - source & executable
+      - [streaming confetti effect](http://web.archive.org/web/20040620141110id_/http://developer.3dlabs.com/openGL2/downloads/ogl2particle.zip) - source & executable
+      - [GLSL: An Introduction](https://nehe.gamedev.net/article/glsl_an_introduction/25007/index.html) - nehe
+      - [OpenGL Shading Language tutorials](https://www.opengl.org/sdk/docs/tutorials/TyphoonLabs/) - typhoon labs
+      - Extensions
+        - [`ARB_shading_language_100`](https://registry.khronos.org/OpenGL/extensions/ARB/ARB_shading_language_100.txt)
+        - [`ARB_shader_objects`](https://registry.khronos.org/OpenGL/extensions/ARB/ARB_shader_objects.txt)
+        - [`ARB_vertex_shader`](https://registry.khronos.org/OpenGL/extensions/ARB/ARB_vertex_shader.txt)
+        - [`ARB_fragment_shader`](https://registry.khronos.org/OpenGL/extensions/ARB/ARB_fragment_shader.txt)
     - [GLSL 1.10 Quick Reference Guide](https://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - (PDF)
     - [GLSL 1.20 spec](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.20.pdf) - (PDF) coincides with opengl 2.1
     - [GLSL 3.30 spec](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.3.30.pdf) - (PDF)
@@ -119,8 +130,12 @@ OpenGL
     - [OpenGL Samples Pack](https://github.com/g-truc/ogl-samples)
   - _Tools_
     - [CodeXL](https://github.com/GPUOpen-Archive/CodeXL) - debug / profile / analysis
-    - [RenderMonkey](http://web.archive.org/web/20110707130949id_/http://download2-developer.amd.com/amd/GPU/executables/RenderMonkey.2008-12-17-v1.82.322.msi) - shader development environment (opengl 2.0, windows)
-      - [Release Notes](http://web.archive.org/web/20120526081437id_/http://developer.amd.com/gpu_assets/rendermonkey-releasenotes-v.1.82.320.txt)
-      - [SDK Documentation](http://web.archive.org/web/20120526081345id_/http://developer.amd.com/gpu_assets/SDK%20Documentation.pdf)
-      - [COLLADA OpenGL Effects Viewer](http://web.archive.org/web/20110911082316id_/http://download2-developer.amd.com/amd/GPU/zip/osg2.2_collada_gl_fx_viewer_031108.zip)
+    - RenderMonkey
+      - [RenderMonkey v1.82](http://web.archive.org/web/20110707130949id_/http://download2-developer.amd.com/amd/GPU/executables/RenderMonkey.2008-12-17-v1.82.322.msi) - shader development environment (opengl 2.0, windows)
+        - [Release Notes](http://web.archive.org/web/20120526081437id_/http://developer.amd.com/gpu_assets/rendermonkey-releasenotes-v.1.82.320.txt)
+        - [SDK Documentation](http://web.archive.org/web/20120526081345id_/http://developer.amd.com/gpu_assets/SDK%20Documentation.pdf)
+        - [COLLADA OpenGL Effects Viewer](http://web.archive.org/web/20110911082316id_/http://download2-developer.amd.com/amd/GPU/zip/osg2.2_collada_gl_fx_viewer_031108.zip)
+      - [RenderMonkey v1.5](http://web.archive.org/web/20041013041214id_/http://developer.3dlabs.com/openGL2/rendermonkey/RenderMonkey-v1.5.exe)
+        - [Documentation](http://web.archive.org/web/20041013041214id_/http://developer.3dlabs.com/openGL2/rendermonkey/RenderMonkey-Documentation.pdf)
+        - [SDK Documentation](http://web.archive.org/web/20041013041214id_/http://developer.3dlabs.com/openGL2/rendermonkey/RenderMonkey-SDK_Documentation.pdf)
     - [Shader Editor](https://f-droid.org/packages/de.markusfisch.android.shadereditor/) - create and edit GLSL shaders (android 4.0+)
