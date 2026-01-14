@@ -41,7 +41,7 @@ OpenGL
   - _Knowledge_
     - Mathematics
       - [Math2.org](http://math2.org/)
-      - [3D Geometry Primer]() - flipcode
+      - [3D Geometry Primer](https://www.flipcode.com/geometry/) - flipcode
       - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html)
       - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
       - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) - jorge rodriguez (playlist)
