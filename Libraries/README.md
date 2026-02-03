@@ -22,3 +22,4 @@ POSIX Threads
 -------------
 
 * [Getting Started With POSIX Threads](http://web.archive.org/web/20040607103415id_/http://dis.cs.umass.edu/~wagner/threads_html/tutorial.html)
+* [POSIX Threads (pthreads) for Win32](https://sourceware.org/pthreads-win32/)
