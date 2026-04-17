@@ -25,8 +25,10 @@ OpenGL
       - [mac opengl compatibility table](https://support.apple.com/en-us/101525)
       - [opengl programming guide for mac](https://developer.apple.com/opengl/)
       - [reference](https://web.archive.org/web/20140812200349id_/https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CGL_OpenGL/Reference/reference.html) ([pdf](https://web.archive.org/web/20140824204714id_/https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CGL_OpenGL/CGL_OpenGL.pdf))
+    - [GLAD](https://gen.glad.sh/) - webservice for creating opengl headers
     - [GLEW](https://github.com/nigels-com/glew) - extension wrangler
       - [usage](https://glew.sourceforge.net/basic.html) - initializing & checking for extensions
+    - [GLFW](https://www.glfw.org/documentation.html) - multiplatform windows, contexts, surfaces, input and events api
     - [GLM](https://github.com/g-truc/glm) - mathematics
     - [GLU 1.3](https://registry.khronos.org/OpenGL/specs/gl/glu1.3.pdf) - utility (pdf)
     - [GLUS](https://github.com/McNopper/GLUS) - cross graphic library utilities
