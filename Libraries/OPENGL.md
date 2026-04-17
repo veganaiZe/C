@@ -21,6 +21,10 @@ OpenGL
     | [Extensions](https://registry.khronos.org/OpenGL/extensions/)                       | TXT    |
     | [glTF 2.0](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)               | HTML   |
   - _Libraries_
+    - [CGL](https://en.wikipedia.org/wiki/Core_OpenGL)
+      - [mac opengl compatibility table](https://support.apple.com/en-us/101525)
+      - [opengl programming guide for mac](https://developer.apple.com/opengl/)
+      - [reference](https://web.archive.org/web/20140812200349id_/https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CGL_OpenGL/Reference/reference.html) ([pdf](https://web.archive.org/web/20140824204714id_/https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CGL_OpenGL/CGL_OpenGL.pdf))
     - [GLEW](https://github.com/nigels-com/glew) - extension wrangler
       - [usage](https://glew.sourceforge.net/basic.html) - initializing & checking for extensions
     - [GLM](https://github.com/g-truc/glm) - mathematics
