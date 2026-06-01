@@ -10,7 +10,7 @@ _Quick reference for C fundamentals_
 
 * [Keywords](https://en.cppreference.com/w/c/keyword.html)
 * [Operator Precendence](https://en.cppreference.com/w/c/language/operator_precedence.html)
-* Reserved Names: ([cppreference](https://en.cppreference.com/w/c/language/identifiers.html#Reserved_identifiers) / [gnu libc manual](https://www.gnu.org/software/libc/manual/html_node/Reserved-Names.html) / [c99 7.1.3](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf#page=178))
+* Reserved Names: ([cppreference](https://en.cppreference.com/w/c/language/identifiers.html#Reserved_identifiers) / [gnu libc manual](https://sourceware.org/glibc/manual/latest/html_node/Reserved-Names.html) / [c99 7.1.3](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf#page=178))
     ```C
     /* All keywords & standard library names are reserved. */
     
