@@ -6,6 +6,7 @@
   - [Windows Programming](https://en.wikibooks.org/wiki/Windows_Programming) - Wikibooks
 * _Reference_
   - [Windows API Index](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list) - Microsoft
+    - [Windows Data Types](https://learn.microsoft.com/en-us/windows/win32/winprog/windows-data-types)
   - [Hungarian Notation](https://reactos.org/wiki/Hungarian_Notation) - ReactOS
   - [Win32 API (.chm)](https://web.archive.org/web/20190512102726id_/http://laurencejackson.com/win32/Win32.chm) - with arrows
   - [Win32 API (.hlp)](http://www.carabez.com/downloads/win32api.zip) - slim version
