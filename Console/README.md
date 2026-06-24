@@ -4,7 +4,12 @@
 ## DOS
 * COMPILERS
   - [DJGPP (gcc)](http://www.delorie.com/djgpp/zip-picker.html)
-  - [Open Watcom V1.9](https://sourceforge.net/projects/openwatcom/files/open-watcom-1.9/open-watcom-c-dos-1.9.exe/download)
+  - [Open Watcom v1.9](https://web.archive.org/web/20150203100434id_/http://www.openwatcom.org/index.php/C_Compilers_Release_Changes)
+    - Binaries [[dos](https://web.archive.org/web/20141230211927id_/http://openwatcom.mirrors.pair.com/)]
+               [[linux](https://web.archive.org/web/20141230211927id_/http://openwatcom.mirrors.pair.com/open-watcom-c-linux-1.9)]
+               [[os2](https://web.archive.org/web/20141230211927id_/http://openwatcom.mirrors.pair.com/open-watcom-c-os2-1.9.exe)]
+               [[win32](https://web.archive.org/web/20141230211927id_/http://openwatcom.mirrors.pair.com/open-watcom-c-win32-1.9.exe)]
+    - [Documentation](https://github.com/open-watcom/open-watcom-1.9/wiki/Open-Watcom-1.9-Documentation)
   - [Pacific C](http://web.archive.org/web/20040215154614/http://www1.htsoft.com/files/pacific/pacific.exe) and also its [PDF manual](http://web.archive.org/web/19980524231521/http://www1.htsoft.com/files/pacific/pacman.pdf)
   - [LADSoft's CC386](https://ladsoft.tripod.com/cc386_compiler.html)
   - [DeSmet C](http://www.desmet-c.com/)
