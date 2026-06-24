@@ -20,7 +20,7 @@
     - [Turbo C++ 1.01](https://web.archive.org/web/20050204085204/http://bdn.borland.com/article/0,1410,21751,00.html) - 100% ANSI C (1991)
 * GRAPHICS
   - [256-Color VGA Programming in C](http://www.brackeen.com/vga/index.html) - David Brackeen
-  - [C Graphics Tutorial](https://www.programmingsimplified.com/c-graphics-programming-tutorial) - Turbo C / BGI
+  - [C Graphics Tutorial](http://web.archive.org/web/20250325155322id_/https://www.programmingsimplified.com/c-graphics-programming-tutorial) - Turbo C / BGI
 * UTILITIES
   - [HelpPC](https://helppc.netcore2k.net/topics) - netcore2k.net
 
