@@ -9,7 +9,7 @@ GTK+
 * _Version 2_
   - [GTK+ Tutorial](https://zetcode.com/gui/gtk2/) - zetcode
   - [GTK+ Programming](http://web.archive.org/web/20260524211202id_/https://www.cs.dartmouth.edu/~cs23/gtk.html) - dartmouth
-  - [GTK+ 2.0 Tutorial](https://www.geany.org/manual/gtk/gtk-tutorial/book1.html) - gtk team
+  - [GTK+ 2.0 Tutorial](https://www.geany.org/manual/gtk/gtk-tutorial/book1.html) - gtk team [[tar.gz](https://download.gimp.org/pub/gtk/tutorial/gtk-tutorial.20021027.tar.gz)]
   - [GTK+ 2 Reference Manual](https://www.csparks.com/gtk2-html-2.24.33/index.html) - v2.24.33 - gui widget toolkit
   - [GDK 2 Reference Manual](https://www.csparks.com/gdk2-html-2.24.33/index.html) - v2.24.33 - gtk windowing system abstraction
   - [GDK-PixBuf Reference Manual](https://www.geany.org/manual/gtk/gdk-pixbuf/index.html) v2.16.0 - loads graphical assets in various formats
