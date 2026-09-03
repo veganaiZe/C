@@ -11,8 +11,7 @@ GTK+
   - [GTK+ Programming](http://web.archive.org/web/20260524211202id_/https://www.cs.dartmouth.edu/~cs23/gtk.html) - dartmouth
   - [GTK+ 2 Reference Manual](https://www.csparks.com/gtk2-html-2.24.33/index.html) - v2.24.33, sparks communications
   - [GDK 2 Reference Manual](https://www.csparks.com/gdk2-html-2.24.33/index.html) - v2.24.33, sparks communications
-  - [GTK+ Reference](https://gjs-docs.gnome.org/gtk20~2.0/) - v2.24, gnome.org
-  - [GTK+ Reference](https://www.geany.org/manual/gtk/gtk/index.html) - v2.16, geany.org
+  - [GLib Reference Manual](https://web.mit.edu/ghudson/dev/nokrb/third/glib2/docs/reference/glib/html/index.html) - v2.4.8, mit
   - [GTK+ Sources](https://download.gnome.org/sources/gtk+/2.24/) - v2.24 (fuck version 3+)
 * _Version 1_
   - [GTK Documentation](http://www.gtk-server.org/gtk1/gtk/index.html)
