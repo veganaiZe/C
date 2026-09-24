@@ -84,6 +84,7 @@
 
 ## ✔️ Design Guidelines
 * [The Windows Interface Guidelines — A Guide for Designing Software](https://www.ics.uci.edu/~kobsa/courses/ICS104/course-notes/Microsoft_WindowsGuidelines.pdf) - Microsoft (1995)
+* [Creating Windows XP Icons](https://learn.microsoft.com/en-us/previous-versions/ms997636(v=msdn.10)) - Microsoft
 * [Windows 7 Design Guidelines](https://learn.microsoft.com/en-us/windows/win32/uxguide/guidelines) - Microsoft
 * [Windows 11 Design Guidelines](https://learn.microsoft.com/en-us/windows/apps/design/) - Microsoft
 
