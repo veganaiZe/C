@@ -32,7 +32,7 @@ int main(int argc, char * argv[])
 
 * `T* Gtk::manage(T* gtk_object)` makes child widget owned by its parent container so it's deleted automatically.
 * `GtkObject* Gtk::Object::gobj()` to access underlying C `GtkObject`. (e.g. `button->gobj()`)
-* `Glib::wrap(GObject* object, bool take_copy=false)` create C++ gtkmm wrapper object instance from C GObject instance. (`take_copy=true` increments C instance's ref count)
+* `Glib::wrap(GObject* object, bool take_copy=false)` create C++ gtkmm wrapper object instance from C `GObject` instance. (`take_copy=true` increments C instance's ref count)
 * `Glib::ustring` similar interface as `std::string` but contains utf-8 unicode characters. `<glibmm/ustring.h>`
 * Don't use ~~`Glib::StringArrayHandle`~~ or ~~`Glib::ArrayHandle<Glib::ustring>`~~
   - Use `std::vector<Glib::ustring>`, `std::list<Glib::ustring>`, `const char*[]`, etc.
