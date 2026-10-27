@@ -12,7 +12,7 @@ _Official C++ interface for [GTK](/Libraries/README.md#gtk)_
 ---
 
 ```c++
-// clang++ file.cpp `pkg-config --cflags --libs gtkmm-2.4`
+// clang++ file.cpp -Wno-deprecated `pkg-config --cflags --libs gtkmm-2.4`
 
 #include <gtkmm.h>  /* All of gtkmm; ~1 megabyte of headers */
 
