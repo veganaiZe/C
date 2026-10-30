@@ -11,6 +11,9 @@ GTK+
   - [GTK+ Programming](http://web.archive.org/web/20260524211202id_/https://www.cs.dartmouth.edu/~cs23/gtk.html) - dartmouth
   - [GTK+ 2.0 Tutorial](https://www.geany.org/manual/gtk/gtk-tutorial/book1.html) - gtk team [[tar.gz](https://download.gimp.org/pub/gtk/tutorial/gtk-tutorial.20021027.tar.gz)]
   - [Graphical User Interface Programming](https://www.cs.hunter.cuny.edu/~sweiss/course_materials/csci493.73/csci493.73_spr10.php) - csci 493.73
+  - [GTK+ 2.0 Tree View Tutorial](https://web.archive.org/web/20180605213222id_/http://scentric.net/tutorial/) - scentric
+    [[pdf](http://web.archive.org/web/20180417184646id_/http://scentric.net/tutorial/treeview-tutorial.pdf)]
+    [[html w/ examples](https://web.archive.org/web/20180605213222id_/http://scentric.net/tutorial/treeview-tutorial.tar.gz)]
   - [GTK+ 2 Reference Manual](https://www.csparks.com/gtk2-html-2.24.33/index.html) - v2.24.33 - gui widget toolkit
   - [GDK 2 Reference Manual](https://www.csparks.com/gdk2-html-2.24.33/index.html) - v2.24.33 - gtk windowing system abstraction
   - [GDK-PixBuf Reference Manual](https://www.geany.org/manual/gtk/gdk-pixbuf/index.html) v2.16.0 - loads graphical assets in various formats
