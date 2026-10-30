@@ -15,6 +15,7 @@ GTK+
     [[pdf](http://web.archive.org/web/20180417184646id_/http://scentric.net/tutorial/treeview-tutorial.pdf)]
     [[html w/ examples](https://web.archive.org/web/20180605213222id_/http://scentric.net/tutorial/treeview-tutorial.tar.gz)]
   - [GTK+ 2 Reference Manual](https://www.csparks.com/gtk2-html-2.24.33/index.html) - v2.24.33 - gui widget toolkit
+    [[tar.gz](https://web.archive.org/web/20210306123739id_/https://developer.gnome.org/gtk2/gtk2-html-2.24.33.tar.gz)]
   - [GDK 2 Reference Manual](https://www.csparks.com/gdk2-html-2.24.33/index.html) - v2.24.33 - gtk windowing system abstraction
   - [GDK-PixBuf Reference Manual](https://www.geany.org/manual/gtk/gdk-pixbuf/index.html) v2.16.0 - loads graphical assets in various formats
   - [GLib Reference Manual](https://www.geany.org/manual/gtk/glib/) - v2.20.0 - low-level core library forming basis of gtk
